@@ -1,0 +1,11 @@
+.onlineUser {
+  color: green;
+}
+.offlineUser {
+  color: red;
+}
+.list {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}

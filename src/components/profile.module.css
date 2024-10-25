@@ -1,0 +1,15 @@
+.parentCard {
+}
+.parentCard img {
+  width: 150px;
+}
+.parentCard ul {
+  list-style: none;
+  display: flex;
+  padding: 0;
+  margin: 0;
+  /* justify-content: space-around; */
+}
+.parentCard ul li:not(:last-child) {
+  margin: 0 25px 0 0;
+}
